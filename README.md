@@ -2,7 +2,7 @@
 <div align="center">
   
   # TikTok Share Botter
-  ### CURRENTLY PATCHED WAITING FOR WORK AROUND
+  ### ⚠️ CURRENTLY PATCHED WAITING FOR WORK AROUND ⚠️
   
   Fastest multi-threaded and proxyless TikTok Share Botter written in C++. Click [here](https://github.com/HNT8/TikTok-Share-Botter/issues) to report any issues. This tool will use a lot of your CPU which will slow down your computer tremendously while using the tool but this is necessary for the high share speed.
   
