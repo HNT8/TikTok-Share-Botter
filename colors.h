@@ -1,0 +1,21 @@
+#pragma once
+
+enum COLORS {
+	BLUE = 1,
+	GREEN = 2,
+	CYAN = 3,
+	RED = 4,
+	PURPLE = 5,
+	DARK_YELLOW = 6,
+	DEFAULT = 7,
+	GRAY = 8,
+	BRIGHT_BLUE = 9,
+	BRIGHT_GREEN = 10,
+	BRIGHT_CYAN = 11,
+	BRIGHT_RED = 12,
+	MAGENTA = 13,
+	YELLOW = 14,
+	BRIGHT_WHITE = 15
+};
+
+void COLOR(int color);

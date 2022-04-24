@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Colors">
+      <UniqueIdentifier>{6b1e0c7a-1857-4454-813d-a0b2a2493dcf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ASCII">
+      <UniqueIdentifier>{b74a47f0-3aa1-45c7-986c-713a155d0fff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Console">
+      <UniqueIdentifier>{6305bcf5-8b3c-4e74-8465-72025582acb3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shares">
+      <UniqueIdentifier>{4327562f-d4b4-4340-962a-e257095f9900}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="colors.cpp">
+      <Filter>Colors</Filter>
+    </ClCompile>
+    <ClCompile Include="ascii.cpp">
+      <Filter>ASCII</Filter>
+    </ClCompile>
+    <ClCompile Include="console.cpp">
+      <Filter>Console</Filter>
+    </ClCompile>
+    <ClCompile Include="shares.cpp">
+      <Filter>Shares</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="colors.h">
+      <Filter>Colors</Filter>
+    </ClInclude>
+    <ClInclude Include="ascii.h">
+      <Filter>ASCII</Filter>
+    </ClInclude>
+    <ClInclude Include="console.h">
+      <Filter>Console</Filter>
+    </ClInclude>
+    <ClInclude Include="shares.h">
+      <Filter>Shares</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
