@@ -15,3 +15,6 @@
 1. Download TikTok-Share-Botter.exe from [here](https://github.com/HNT8/TikTok-Share-Botter/releases/latest) or alternatively build it yourself using the source code.
 2. Run TikTok-Share-Botter.exe and input the ID of the video you would like to share bot.
 3. Get 100k shares a second!
+
+### Disclaimer
+This is for educational purposes only and we are not responsible for anything you choose to do with this tool.
